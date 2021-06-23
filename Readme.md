@@ -16,7 +16,7 @@ I'll use it until I understand better about spring-cloud-stream-binder-kafka-str
 
 #### Update 23 jun 2021
 
-The [Issue] (https://github.com/spring-cloud/spring-cloud-stream-binder-kafka/issues/1092) was created to work smoothly in version 3.1.4-SNAPSHOT
+The [Issue](https://github.com/spring-cloud/spring-cloud-stream-binder-kafka/issues/1092) was created to work smoothly in version 3.1.4-SNAPSHOT
 
 See the sample example from oficial repo: https://github.com/spring-cloud/spring-cloud-stream-samples/tree/main/kafka-streams-samples/kafka-streams-jaas-security
 
