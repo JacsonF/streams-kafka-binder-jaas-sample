@@ -13,3 +13,13 @@ So I tried the same aproach for my aplication, but don't work's.
 Finally, i foud this aproach that I used im this project, I don't know if this is a good aproach.
 
 I'll use it until I understand better about spring-cloud-stream-binder-kafka-streams
+
+#### Update 23 jun 2021
+
+The [Issue] (https://github.com/spring-cloud/spring-cloud-stream-binder-kafka/issues/1092) was created to work smoothly in version 3.1.4-SNAPSHOT
+
+See the sample example from oficial repo: https://github.com/spring-cloud/spring-cloud-stream-samples/tree/main/kafka-streams-samples/kafka-streams-jaas-security
+
+Discussion:
+https://stackoverflow.com/questions/67548283/how-to-use-jaas-configuration-in-spring-cloud-stream-binder-kafka-streams/68092601#68092601
+
